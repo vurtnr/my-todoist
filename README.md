@@ -1,4 +1,4 @@
-项目使用react react-hook firebase 搭建 仿 Todoist [firebase](https://firebase.google.com/?hl=zh-cn) [Todoist](https://todoist.com/zh-CN).
+项目使用react react-hook firebase react-icons sass 搭建 仿 Todoist [firebase](https://firebase.google.com/?hl=zh-cn) [Todoist](https://todoist.com/zh-CN).
 
 后续补充更多官方功能（纯学习hook及react使用）
 
